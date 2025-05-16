@@ -1,5 +1,7 @@
-## Hi there 👋
-
+# Classification of diabetes
+## Aleksandr62aa
+## AlyonaHV
+_This model is supposed to find out diabetes by 8 different features_
 <!--
 **AlyonaHV/AlyonaHV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
